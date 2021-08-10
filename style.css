@@ -1,0 +1,16 @@
+.img-gallery{
+    max-width: 100%;
+    cursor: pointer;
+}
+
+/* .img-gallery:hover{
+    transform: scale(120%);
+}
+
+.img-container{
+    overflow: hidden;
+} */
+
+.margin-top-50{
+    margin-top: 50px;
+}
